@@ -20,10 +20,10 @@ I'm always looking for opportunities to learn and innovate, and I'm excited to c
 - 💬 Ask me about **Kubernetes, Docker, Jenkins, Githubactions, Python, Terraform, AWS, Azure**
 
 - 📫 How to reach me **saiswethabalanagar07@gmail.com**
-<div align="center">
-  <img src="https://www.shalb.com/wp-content/uploads/2019/11/Devops1.jpeg" width="400">
-</div>
 
+  
+<img align="right" alt="Coding" width="400" 
+src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVc9IYg6G2xQh2ODAJM0QEmp7Mvo2lvfA_sMhmUE8klbeBVfhJIzgK1Ilqj2rOozmjeDfd2rZ4aYaU7mQn88gVevbkCJZF_I1PDZbRLWo_eCrVe8ZTv5-G-PWC7eHiBDR1-CUgqiLFSGcHZI9ZDaq2GKKr2GNJgB9qWIPmot37wXG4NtZ8DW-wmsi8dg/w554-h229/DEVOPS.gif">
 
 
 <h3 align="left">Connect with me:</h3>
